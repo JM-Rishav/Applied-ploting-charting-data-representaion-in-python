@@ -9,3 +9,8 @@ Coursera course applied ploting, charting &amp; data representation in python
   <br>Matplotlib by John hunter and Michael Droettboom</br>
   You can check the book <a href="http://www.aosabook.org/en/matplotlib.html">here </a>
 </div>
+
+<div>
+  <br>Ten simple rules for better figures</br>
+  you can check the page here
+</div>
