@@ -12,5 +12,5 @@ Coursera course applied ploting, charting &amp; data representation in python
 
 <div>
   <br>Ten simple rules for better figures</br>
-  you can check the page here
+  you can check the page <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833">here </a>
 </div>
